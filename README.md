@@ -1,6 +1,6 @@
 # Tic Tac Toe Neural Workshop
 
-A small Vite/React project where you can play against a heuristic AI and watch a neural net learn Tic-Tac-Toe from perfect-play examples. The live build is already hosted on GitHub Pages: https://jrudyray.github.io/tic-tac-toe.
+A small Vite/React project where you can play against a heuristic AI and watch a neural net learn Tic-Tac-Toe from perfect-play examples. The live build is already hosted on GitHub Pages: https://jrudyray.github.io/tic-tac-toe_neural-workshop.
 
 ## Training pipeline
 - `TrainSetup` lets you name the network, pick a preset (32 → 64 → 32 neurons, etc.), and tweak learning rate, dropout, and weight decay before training.
